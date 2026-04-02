@@ -142,4 +142,7 @@ POST /predict
 This project demonstrates a complete machine learning workflow from data preprocessing to deployment, enabling real-time student performance prediction through a web API.
 
 ---
+Author 
+
+Chandan M
 
